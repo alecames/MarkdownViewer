@@ -36,6 +36,6 @@ Alternatively, you can install from source:
 - [ ] Add option to toggle dark/light mode in app
 - [ ] Add shortcut to edit in default text editor
 - [ ] Add option to toggle markdown rendering
-- [ ] Show hovered
+- [ ] Add syntax highlighting for code blocks
 - [ ] Add file association option for `.md` files in the Windows installer
 - [ ] Tweak Windows installer to prevent desktop shortcut by default
